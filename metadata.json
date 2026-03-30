@@ -1,0 +1,5 @@
+{
+  "name": "AirAsia IT Incident Severity Calculator",
+  "description": "A tool to calculate IT incident severity and SLA based on affected applications and locations.",
+  "requestFramePermissions": []
+}
